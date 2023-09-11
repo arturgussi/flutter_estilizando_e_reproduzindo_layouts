@@ -19,3 +19,13 @@ Planejar a estrutura de um Widget customizado para se adequar às necessidades d
 Receber Widgets dentro de outros Widgets, pensando em deixar nosso widget customizado mais flexível possível;
 
 Conhecer a propriedade de sombreamento de Widgets para adicionar um novo efeito visual.
+
+Compreender o que são temas e para que servem;
+
+Ver padrões para a criação de um tema customizado;
+
+Estabelecer as cores que serão utilizadas no projeto em um arquivo isolado;
+
+Desenvolver um novo tema com nossas cores e propriedades tipográficas;
+
+Adaptar o nosso projeto para utilizar as estilizações do nosso novo tema.
