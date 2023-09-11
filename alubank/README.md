@@ -12,3 +12,10 @@ Identificar as diferenças entre os Widgets Text e Text.rich para exibir textos 
 
 Implementar um gradiente de cores dentro do Header.
 
+Perceber repetições visuais e estruturais no projeto, aplicando técnicas para organizar o código conforme o layout;
+
+Planejar a estrutura de um Widget customizado para se adequar às necessidades do projeto;
+
+Receber Widgets dentro de outros Widgets, pensando em deixar nosso widget customizado mais flexível possível;
+
+Conhecer a propriedade de sombreamento de Widgets para adicionar um novo efeito visual.
