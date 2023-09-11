@@ -29,3 +29,11 @@ Estabelecer as cores que serão utilizadas no projeto em um arquivo isolado;
 Desenvolver um novo tema com nossas cores e propriedades tipográficas;
 
 Adaptar o nosso projeto para utilizar as estilizações do nosso novo tema.
+
+Diferenciar elementos visuais de elementos com conteúdo;
+
+Entender as necessidades de criar Widgets específicos para esses elementos visuais;
+
+Aplicar Widgets estilizados na prática: esferas pequenas coloridas, linha para separar seções do conteúdo;
+
+Praticar o conceito de utilizar todos os recursos que preparamos até o momento para finalizar a seção de RecentActivity.
