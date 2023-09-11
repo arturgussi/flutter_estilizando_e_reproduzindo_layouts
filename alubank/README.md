@@ -37,3 +37,7 @@ Entender as necessidades de criar Widgets específicos para esses elementos visu
 Aplicar Widgets estilizados na prática: esferas pequenas coloridas, linha para separar seções do conteúdo;
 
 Praticar o conceito de utilizar todos os recursos que preparamos até o momento para finalizar a seção de RecentActivity.
+
+Criar interações de toque do usuário com o Widget InkWell;
+
+Implementação de famílias de fonte diferentes em nosso projeto.
